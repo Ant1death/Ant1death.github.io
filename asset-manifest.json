@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ant1death.github.io/static/css/main.172ce15f.css",
+    "main.js": "/ant1death.github.io/static/js/main.0f312198.js",
+    "static/media/CommentsBG.jpeg": "/ant1death.github.io/static/media/CommentsBG.703066f0f18777eaf46a.jpeg",
+    "static/media/han-solo.jpg": "/ant1death.github.io/static/media/han-solo.84705bac66e252072c67.jpg",
+    "static/media/heart.svg": "/ant1death.github.io/static/media/heart.4a8ff1b37ef8024df5d13e97da97fe9b.svg",
+    "index.html": "/ant1death.github.io/index.html",
+    "main.172ce15f.css.map": "/ant1death.github.io/static/css/main.172ce15f.css.map",
+    "main.0f312198.js.map": "/ant1death.github.io/static/js/main.0f312198.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172ce15f.css",
+    "static/js/main.0f312198.js"
+  ]
+}
