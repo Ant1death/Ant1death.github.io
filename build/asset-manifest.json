@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.172ce15f.css",
+    "main.js": "/test/static/js/main.68155767.js",
+    "static/media/CommentsBG.jpeg": "/test/static/media/CommentsBG.703066f0f18777eaf46a.jpeg",
+    "static/media/han-solo.jpg": "/test/static/media/han-solo.84705bac66e252072c67.jpg",
+    "static/media/heart.svg": "/test/static/media/heart.4a8ff1b37ef8024df5d13e97da97fe9b.svg",
+    "index.html": "/test/index.html",
+    "main.172ce15f.css.map": "/test/static/css/main.172ce15f.css.map",
+    "main.68155767.js.map": "/test/static/js/main.68155767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172ce15f.css",
+    "static/js/main.68155767.js"
+  ]
+}
